@@ -14,8 +14,8 @@
 }
 
 .paragraph {
-    text-align: center;
     box-sizing: border-box;
+    margin: 100px 100px 100px 100px;
 }
 
 .rectangle{
